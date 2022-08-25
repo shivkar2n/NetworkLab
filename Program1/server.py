@@ -1,6 +1,6 @@
 import socket, random
 from termcolor import colored, cprint
-from utils import COLORS
+from utility.utils import COLORS
 
 PORT = 9000
 address = ("127.0.0.1", PORT)
